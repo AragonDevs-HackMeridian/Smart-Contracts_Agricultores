@@ -71,7 +71,7 @@ flowchart LR
 
 ## Team
 
-- **[Name]** · [GitHub](https://github.com/) · smart contracts
-- **[Name]** · [GitHub](https://github.com/) · data, oracle and frontend
+- **Diego Simón Iñiguez** · [GitHub](https://github.com/) · smart contracts
+- **Javier Susín Villacampa** · [GitHub](https://github.com/) · data, oracle and frontend
 
 4th-year Computer Engineering students from Zaragoza, Spain.
